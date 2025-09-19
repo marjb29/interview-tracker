@@ -2,8 +2,6 @@
 
 One stop solution for every coding interviews.
 
-The deployed website can be found here : [Website](https://interview-tracker-iit.herokuapp.com/)
-
 Following features are present in the web applicaton.
 
 ## Home Page
